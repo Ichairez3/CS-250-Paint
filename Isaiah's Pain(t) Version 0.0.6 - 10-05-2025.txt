@@ -1,0 +1,26 @@
+Isaiah's Pain(t) Version 0.0.6 - 10/5/2025
+
+The software shall:
+
+	* allow you to rotate (90/180/270) an image, as well as mirror [as in, do a horizontal and vertical flip (so, left becomes right / top becomes 	bottom).
+
+	* allow the rotate of either a selection (a chunk) or for your whole canvas.  [that is a both of those]
+
+	* have icons for drawing tools; preferred is all buttons, etc.  (you may retain existing text labels if you want or add if you have icons 	already).
+
+	* notifications (as in in the corner of window, from the OS); for autosave - trigger or on off.
+
+	have tool tips for your buttons that appear on hover.
+	control keys (cntrl s for save, etc.)
+	star with variable number of points (4 aka diamond ... on up)
+	
+	*threaded Logging 
+
+
+Known issues:
+
+   * tool being used will sometimes not display a checkmark 
+
+Links:
+
+  * 
