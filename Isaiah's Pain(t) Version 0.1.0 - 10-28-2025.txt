@@ -1,0 +1,88 @@
+Isaiah's Pain(t) Version 0.1.0 - 10/5/2025
+
+The software shall:
+
+  * open an image and show it
+
+  * have close controls
+
+  * Do "save"
+
+  * Do "save as"
+
+  * Has a menu bar
+ 
+  * have JPG BMP and PNG support 
+
+  * the ability to draw a line (which would become part of the saved image / save an image with those edits)
+
+  * the ability to manage an image larger than the window and the screen (up to you how to do this)
+
+  * allow you to control the width of the line drawn
+
+  * have a color chooser 
+
+  * have a help menu item with help and about options; about should be a separate window/dialog
+
+  * have smart/aware save 
+
+  * allow resizing (for larger drawing)
+
+  * include JavaDoc commenting 
+
+  * have width controls  (width controls as in control width of a regular line or the line-edges of shapes) 
+
+  * draw square, circle, rectangle, ellipse, triangle 
+
+  * keyboard shortcuts  
+
+  * inform user as to pixel size of width
+
+  * text label for colors  
+
+  * color grabber  
+
+  * pencil line  
+
+  * dashed outline of shape / line 
+
+  * tabs 
+
+  * provide a blank starting image and a clear canvas (with "are you sure" check) tool
+
+  * draw yet another additional shape of your choice
+
+  * be able to draw a regular side polygon with any #of sides
+
+  * right and not-right angle triangles
+
+  * select and copy/paste a piece of the image 
+
+  * select and move a piece of the image
+
+  * allow the addition of text from user-typed input to your image.
+
+  * The software shall have a timer that allows for autosave.
+
+  * The timer's countdown shall be optionally (as in some way to choose on/off) visible to the user.  Bonus/optional: Reset the timer on a 	user's save.
+ 
+  * The software shall incorporate a webserver to presents one or more of the images (in tabs), as selected by the user.  If no images are 	selected, an appropriate message will be displayed
+
+  * The software shall have the ability to save in an alternative file format than the one that was the original for the image.
+
+  * The software shall have a warning image features/data loss can happen 
+
+  * Switching from recangle to square without selecting a shape (not shortcuts either; holding down shift changes the shape into one that is 	similar)
+
+
+Known issues:
+
+  * Select Tool sometimes does not remove the original image from the selected part
+
+Links:
+
+  * Demo: https://youtu.be/_lDEVQvgqMc
+  
+  * GitHub: https://github.com/Ichairez3/CS-250-Paint/tree/Pain(t)-Final-0.1.0
+  
+  
