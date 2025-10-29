@@ -1,4 +1,4 @@
-Isaiah's Pain(t) Version 0.1.0 - 10/5/2025
+Isaiah's Pain(t) Version 0.1.0 - 10/28/2025
 
 The software shall:
 
@@ -85,4 +85,5 @@ Links:
   
   * GitHub: https://github.com/Ichairez3/CS-250-Paint/tree/Pain(t)-Final-0.1.0
   
+
   
